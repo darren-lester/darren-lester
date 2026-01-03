@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Darren 👋 
 
-<!--
-**darren-lester/darren-lester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Frontend Engineer** based in Dundee, UK. I specialise in building high-performance, scalable web applications, primarily using React and TypeScript.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+After an incredible year off for travel across the world (🇯🇵🇰🇷🇨🇳🇭🇰🇻🇳🇲🇾🇸🇬🇮🇸🇨🇿🇦🇹🇭🇺🇺🇸) I'm currently deep-diving into refreshing my skillset by learning React 19, Tailwind, Vite, Playwright and AI-assisted development.
+
+I am currently open to new Senior Frontend opportunities in the UK. If you're building high-performance web apps with React, let's chat.
+
+---
+
+### 🌐 Open Source Contributions
+I'm a strong believer in the open-source ecosystem. My most significant contributions have been to **[Rikaikun](https://github.com/melink14/rikaikun/pulls?q=is%3Apr+author%3Adarren-lester+)**, a popular Japanese translation extension for Chrome with 200,000 users.
+
+---
+
+### 🔗 Where to find me
+* 💼 [LinkedIn](https://www.linkedin.com/in/darren-lester)
+* ✍️ [darrenlester.com](https://www.darrenlester.com)
