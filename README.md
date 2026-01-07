@@ -5,17 +5,17 @@ I'm a **Senior Frontend Engineer** based in Dundee, UK. I specialise in building
 ---
 
 ### 🚀 What I'm working on
-After an incredible year off for travel across the world (🇯🇵🇰🇷🇨🇳🇭🇰🇻🇳🇲🇾🇸🇬🇮🇸🇨🇿🇦🇹🇭🇺🇺🇸) I'm currently deep-diving into refreshing my skillset by learning React 19, Tailwind, Vite, Playwright and AI-assisted development.
+After a year of international travel across Asia, Europe, and the US, I'm building with modern frontend tooling to refresh my technical skills.
 
-I am currently open to new Senior Frontend opportunities in the UK. If you're building high-performance web apps with React, let's chat.
+**Latest Project:** [Retirement Calculator](https://dlester-retirement-calculator.vercel.app/)  
+Performance-optimised retirement planning tool with Monte Carlo simulations, Web Workers, and React 19. [View code →](https://github.com/darren-lester/retirement-calculator)
 
----
-
-### 🌐 Open Source Contributions
-I'm a strong believer in the open-source ecosystem. My most significant contributions have been to **[Rikaikun](https://github.com/melink14/rikaikun/pulls?q=is%3Apr+author%3Adarren-lester+)**, a popular Japanese translation extension for Chrome with 200,000 users.
+Currently seeking a Senior Frontend Engineer role in the UK.
 
 ---
 
-### 🔗 Where to find me
+### 🔗 Connect
+
 * 💼 [LinkedIn](https://www.linkedin.com/in/darren-lester)
-* ✍️ [darrenlester.com](https://www.darrenlester.com)
+* 🌐 [darrenlester.com](https://www.darrenlester.com)
+* 📧 darren@darrenlester.com
