@@ -1,14 +1,14 @@
 # Hi, I'm Darren 👋 
 
-I'm a **Senior Frontend Engineer** based in Dundee, UK. I specialise in building high-performance, scalable web applications, primarily using React and TypeScript.
+I'm a **Senior Frontend Engineer** based in Dundee, UK, with 10+ years shipping on product teams across B2B platforms, consumer products, and growth. I build with React and TypeScript.
 
 ---
 
 ### 🚀 What I'm working on
-After a year of international travel across Asia, Europe, and the US, I'm building with modern frontend tooling to refresh my technical skills.
+After a year of international travel across Asia, Europe, and the US, I'm exploring AI-assisted development and building with modern frontend tooling.
 
 **Latest Project:** [Retirement Calculator](https://dlester-retirement-calculator.vercel.app/)  
-Performance-optimised React/TypeScript retirement planning tool with Monte Carlo simulations in a Web Worker. [View code →](https://github.com/darren-lester/retirement-calculator)
+React/TypeScript retirement planning tool built to explore AI-assisted development with Cursor and Claude. [View code →](https://github.com/darren-lester/retirement-calculator)
 
 Currently seeking a Senior Frontend Engineer role in the UK.
 
