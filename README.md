@@ -5,12 +5,12 @@ I'm a **Senior Frontend Engineer** based in Dundee, UK, with 10+ years shipping 
 ---
 
 ### 🚀 What I'm working on
-After a year of international travel across Asia, Europe, and the US, I'm exploring AI-assisted development and building with modern frontend tooling.
+After a year of eating my way through Asia, exploring Iceland's wonders, and making a cookie pilgrimage to the USA (Levain's 🍪🤤), I'm back and looking for my next role!
 
 **Latest Project:** [Retirement Calculator](https://dlester-retirement-calculator.vercel.app/)  
 React/TypeScript retirement planning tool built to explore AI-assisted development with Cursor and Claude. [View code →](https://github.com/darren-lester/retirement-calculator)
 
-Currently seeking a Senior Frontend Engineer role in the UK.
+**Open to Senior Frontend Engineer roles in the UK.**
 
 ---
 
