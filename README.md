@@ -1,6 +1,6 @@
 # Hi, I'm Darren 👋 
 
-I'm a **Senior Frontend Engineer** based in Dundee, UK, with 10+ years shipping on product teams across B2B platforms, consumer products, and growth. I build with React and TypeScript.
+I'm a **Senior Engineer** based in Glasgow, UK, with 10+ years shipping on product teams across B2B platforms, consumer products, and growth. I build with React and TypeScript.
 
 ---
 
